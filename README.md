@@ -6,14 +6,12 @@
 
 ## 🚀 Обо мне
 
-Я Frontend разработчик, увлеченный созданием удобных и красивых веб-приложений. У меня есть опыт работы с современными технологиями и инструментами, такими как React, Angular, Vue.js и многими другими.
+Я Frontend разработчик, увлеченный созданием удобных и красивых веб-приложений. У меня есть опыт работы с современными технологиями и инструментами, такими как React, Angular и многими другими.
 
 - 🌟 Основные технологии: JavaScript, TypeScript, HTML, CSS
 - 🔭 В настоящее время работаю над улучшением своих навыков в области веб-дизайна и UX/UI
 - 🌱 Учусь новым фреймворкам и библиотекам
-- 💬 Задавайте мне вопросы о веб-разработке
-- 📫 Как связаться со мной: [email@example.com](mailto:email@example.com)
-
+- 📫 Как связаться со мной: [email@example.com](mailto:bezmen162@gmail.com)
 
 ## 🛠️ Мои навыки
 
@@ -41,26 +39,15 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/B_O_o_Z_M_A_N)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bezmen162@gmail.com)
 
-![Footer](https://user-images.githubusercontent.com/your-custom-footer.png)
-
 ## 📈 Моя статистика GitHub
 
 ![Dominatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominatsu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominatsu&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dominatsu&theme=radical)
 
-## 📊 Динамические бейджи
-
-![GitHub Last Commit](https://img.shields.io/github/last-commit/dominatsu/dominatsu?style=flat-square)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dominatsu/dominatsu?style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/dominatsu?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/dominatsu?style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/dominatsu/dominatsu?style=flat-square)
-
 ## 💡 Последние проекты
 
-- [Проект 1](https://github.com/dominatsu/project-1) - Краткое описание проекта.
-- [Проект 2](https://github.com/dominatsu/project-2) - Краткое описание проекта.
-- [Проект 3](https://github.com/dominatsu/project-3) - Краткое описание проекта.
+- [Проект 1](https://github.com/DOMINAtsu/CATSdesigner.git) - Краткое описание проекта.
+- [Проект 2](https://github.com/DOMINAtsu/family-tree.git) - Краткое описание проекта.
+- [Проект 3](https://github.com/DOMINAtsu/React-client.git) - Краткое описание проекта.
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=dominatsu.visitor-badge)
