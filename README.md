@@ -37,8 +37,8 @@
 
 ## 📫 Контакты
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/vladislav-bezmen-b62899258/))
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)]([https://t.me/yourusername](https://t.me/B_O_o_Z_M_A_N))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vladislav-bezmen-b62899258/]
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)]([https://t.me/yourusername](https://t.me/B_O_o_Z_M_A_N)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bezmen162@gmail.com)
 
 ![Footer](https://user-images.githubusercontent.com/your-custom-footer.png)
