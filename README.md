@@ -1,8 +1,8 @@
-# 👋 Привет! Я dominatsu
-
 <div align="center">
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
+
+# 👋 Привет! Я dominatsu
 
 ## 🚀 Обо мне
 
@@ -62,11 +62,5 @@
 - [Проект 1](https://github.com/dominatsu/project-1) - Краткое описание проекта.
 - [Проект 2](https://github.com/dominatsu/project-2) - Краткое описание проекта.
 - [Проект 3](https://github.com/dominatsu/project-3) - Краткое описание проекта.
-
-## 📚 Последние статьи
-
-- [Название статьи 1](https://yourblog.com/article-1) - Краткое описание статьи.
-- [Название статьи 2](https://yourblog.com/article-2) - Краткое описание статьи.
-- [Название статьи 3](https://yourblog.com/article-3) - Краткое описание статьи.
 
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=dominatsu.visitor-badge)
