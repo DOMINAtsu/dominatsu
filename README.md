@@ -40,8 +40,8 @@ I am a Frontend developer passionate about creating user-friendly and beautiful 
 
 ![Dominatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominatsu&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dominatsu&theme=radical)
-<div style="width: 100%; display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominatsu&layout=compact&theme=radical" style="width: 60vh;" />
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominatsu&layout=compact&theme=radical" />
 </div>
 ## 💡 Recent Projects
 
