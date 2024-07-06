@@ -43,6 +43,7 @@ I am a Frontend developer passionate about creating user-friendly and beautiful 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominatsu&layout=compact&theme=radical" />
 </div>
+
 ## 💡 Recent Projects
 
 - [CATSdesigner](https://github.com/DOMINAtsu/CATSdesigner.git) - Brief description of the project.
