@@ -1,89 +1,70 @@
-<br clear="both">
+# 👋 Привет! Я dominatsu
 
-<div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+![Header](https://user-images.githubusercontent.com/your-custom-banner.png)
 
-###
+## 🚀 Обо мне
 
-<h1 align="center">Привет👋 Меня зовут Владислав!</h1>
+Я Frontend разработчик, увлеченный созданием удобных и красивых веб-приложений. У меня есть опыт работы с современными технологиями и инструментами, такими как React, Angular, Vue.js и многими другими.
 
-###
+- 🌟 Основные технологии: JavaScript, TypeScript, HTML, CSS
+- 🔭 В настоящее время работаю над улучшением своих навыков в области веб-дизайна и UX/UI
+- 🌱 Учусь новым фреймворкам и библиотекам
+- 💬 Задавайте мне вопросы о веб-разработке
+- 📫 Как связаться со мной: [email@example.com](mailto:email@example.com)
 
-<div align="center">
-  
-  <a href="https://t.me/B_O_o_Z_M_A_N" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/vladislav-bezmen-b62899258/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linkedin&logo=linkedin&label=&color=3CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+## 🛠️ Мои навыки
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DOMINAtsu&"  />
-</div>
+### Языки программирования и фреймворки
 
-###
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+### Инструменты и платформы
 
-###
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
+## 📫 Контакты
 
-###
-###
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:email@example.com)
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+![Footer](https://user-images.githubusercontent.com/your-custom-footer.png)
 
-###
+## 📈 Моя статистика GitHub
 
-<h3 align="left">🛠 Технологии:</h3>
+![Dominatsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=dominatsu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dominatsu&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dominatsu&theme=radical)
 
-###
+## 📊 Динамические бейджи
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-</div>
+![GitHub Last Commit](https://img.shields.io/github/last-commit/dominatsu/dominatsu?style=flat-square)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dominatsu/dominatsu?style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/dominatsu?style=flat-square)
+![GitHub stars](https://img.shields.io/github/stars/dominatsu?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/dominatsu/dominatsu?style=flat-square)
 
-###
+## 💡 Последние проекты
 
-<h3 align="left">🔥   Моя статистика :</h3>
+- [Проект 1](https://github.com/dominatsu/project-1) - Краткое описание проекта.
+- [Проект 2](https://github.com/dominatsu/project-2) - Краткое описание проекта.
+- [Проект 3](https://github.com/dominatsu/project-3) - Краткое описание проекта.
 
-###
+## 📚 Последние статьи
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DOMINAtsu&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+- [Название статьи 1](https://yourblog.com/article-1) - Краткое описание статьи.
+- [Название статьи 2](https://yourblog.com/article-2) - Краткое описание статьи.
+- [Название статьи 3](https://yourblog.com/article-3) - Краткое описание статьи.
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DOMINAtsu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DOMINAtsu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=dominatsu.visitor-badge)
